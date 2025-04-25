@@ -43,10 +43,3 @@ En este documento, se expone cómo un proceso tradicional puede mejorarse median
 ## 5. Reflexión Personal  
 Este ejercicio demuestra que la IA no solo mejora la eficiencia, sino que también permite una mayor adaptabilidad y personalización en los procesos. Sin embargo, es crucial asegurar la calidad de los datos, establecer mecanismos de supervisión humana y considerar las implicaciones éticas de cada implementación. La automatización no debe sustituir el trato humano, sino complementarlo de forma inteligente.
 
----
-
-## Tiempo Sugerido  
-Dedica entre 30 y 45 minutos para desarrollar esta documentación.
-
-## Entregable  
-Repositorio en GitHub con un archivo `README.md` que incluya toda la información anterior.
