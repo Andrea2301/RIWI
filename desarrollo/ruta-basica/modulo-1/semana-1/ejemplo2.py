@@ -1,5 +1,5 @@
 ciudades = ["medellin","cali","barranquilla"]
 
 print(ciudades)
-print(ciudades[0])
+print(ciudades[2])
 
